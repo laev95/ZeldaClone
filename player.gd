@@ -1,6 +1,5 @@
 extends CharacterBody2D
 
-
 var SPEED: int = 100
 var last_direction = Vector2.ZERO
 var animated_sprite

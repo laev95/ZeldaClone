@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhr0wk20hahav"
-path="res://.godot/imported/taiga_ [bridgeVertical].png-d27823e5e95807f1f83619acb30f0e0b.ctex"
+path="res://.godot/imported/taiga_ [bridgeVertical].png-8313dd3adc0d928745af0545a7c32b62.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/taiga_/taiga_ [bridgeVertical].png"
-dest_files=["res://.godot/imported/taiga_ [bridgeVertical].png-d27823e5e95807f1f83619acb30f0e0b.ctex"]
+source_file="res://assets/taiga_/taiga_ [bridgeVertical].png"
+dest_files=["res://.godot/imported/taiga_ [bridgeVertical].png-8313dd3adc0d928745af0545a7c32b62.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://fkwsta1ff6u2"
-path="res://.godot/imported/quickSand_.png-efb1ebbb011f21ecce5e6659e444a0cd.ctex"
+path="res://.godot/imported/quickSand_.png-3310c016fe9ca8ab785e7c1b027e4659.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/desert_/quickSand_.png"
-dest_files=["res://.godot/imported/quickSand_.png-efb1ebbb011f21ecce5e6659e444a0cd.ctex"]
+source_file="res://assets/desert_/quickSand_.png"
+dest_files=["res://.godot/imported/quickSand_.png-3310c016fe9ca8ab785e7c1b027e4659.ctex"]
 
 [params]
 

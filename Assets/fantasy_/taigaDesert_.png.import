@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4h13l6d3n04t"
-path="res://.godot/imported/taigaDesert_.png-e324136d9f1578c466d611eb2148aafc.ctex"
+path="res://.godot/imported/taigaDesert_.png-6794414cc9cdd2311f0a210ce6cee458.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fantasy_/taigaDesert_.png"
-dest_files=["res://.godot/imported/taigaDesert_.png-e324136d9f1578c466d611eb2148aafc.ctex"]
+source_file="res://assets/fantasy_/taigaDesert_.png"
+dest_files=["res://.godot/imported/taigaDesert_.png-6794414cc9cdd2311f0a210ce6cee458.ctex"]
 
 [params]
 

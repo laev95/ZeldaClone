@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dj5xpe7n7bfn1"
-path="res://.godot/imported/desert_ [fountain].png-f79c1f80b58286cb2b5e9fcb18aa66bc.ctex"
+path="res://.godot/imported/desert_ [fountain].png-f2e0d016d7485763ec94353cc47ce5c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/desert_/desert_ [fountain].png"
-dest_files=["res://.godot/imported/desert_ [fountain].png-f79c1f80b58286cb2b5e9fcb18aa66bc.ctex"]
+source_file="res://assets/desert_/desert_ [fountain].png"
+dest_files=["res://.godot/imported/desert_ [fountain].png-f2e0d016d7485763ec94353cc47ce5c9.ctex"]
 
 [params]
 

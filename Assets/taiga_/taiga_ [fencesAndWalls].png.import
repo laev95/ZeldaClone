@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0cciypdxf8fj"
-path="res://.godot/imported/taiga_ [fencesAndWalls].png-d76208efe48aff2c8e95f1754599d0a0.ctex"
+path="res://.godot/imported/taiga_ [fencesAndWalls].png-5e40ed762e250f2f05cf7e71341c9c68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/taiga_/taiga_ [fencesAndWalls].png"
-dest_files=["res://.godot/imported/taiga_ [fencesAndWalls].png-d76208efe48aff2c8e95f1754599d0a0.ctex"]
+source_file="res://assets/taiga_/taiga_ [fencesAndWalls].png"
+dest_files=["res://.godot/imported/taiga_ [fencesAndWalls].png-5e40ed762e250f2f05cf7e71341c9c68.ctex"]
 
 [params]
 

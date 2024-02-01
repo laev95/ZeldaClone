@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1la457x3hxfy"
-path="res://.godot/imported/desert_ [bridgeHorizontal].png-3737c8e7740630e50cc7c7170bfc2d07.ctex"
+path="res://.godot/imported/desert_ [bridgeHorizontal].png-ff69bcc63836d921082424f6ee690304.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/desert_/desert_ [bridgeHorizontal].png"
-dest_files=["res://.godot/imported/desert_ [bridgeHorizontal].png-3737c8e7740630e50cc7c7170bfc2d07.ctex"]
+source_file="res://assets/desert_/desert_ [bridgeHorizontal].png"
+dest_files=["res://.godot/imported/desert_ [bridgeHorizontal].png-ff69bcc63836d921082424f6ee690304.ctex"]
 
 [params]
 

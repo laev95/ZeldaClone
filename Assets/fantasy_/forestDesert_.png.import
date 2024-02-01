@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf2g8g5vum3ip"
-path="res://.godot/imported/forestDesert_.png-6b11ed1fc9db23261e6dd32698660945.ctex"
+path="res://.godot/imported/forestDesert_.png-87302a9ce5c064dd9120ce4d1b22a970.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fantasy_/forestDesert_.png"
-dest_files=["res://.godot/imported/forestDesert_.png-6b11ed1fc9db23261e6dd32698660945.ctex"]
+source_file="res://assets/fantasy_/forestDesert_.png"
+dest_files=["res://.godot/imported/forestDesert_.png-87302a9ce5c064dd9120ce4d1b22a970.ctex"]
 
 [params]
 

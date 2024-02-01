@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yr78h57ut8y7"
-path="res://.godot/imported/forest_ [fencesAndWalls].png-816cef833e876dd1772b4796e6c87b1f.ctex"
+path="res://.godot/imported/forest_ [fencesAndWalls].png-43446bb090036b53d9f04f2535c80edc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/forest_/forest_ [fencesAndWalls].png"
-dest_files=["res://.godot/imported/forest_ [fencesAndWalls].png-816cef833e876dd1772b4796e6c87b1f.ctex"]
+source_file="res://assets/forest_/forest_ [fencesAndWalls].png"
+dest_files=["res://.godot/imported/forest_ [fencesAndWalls].png-43446bb090036b53d9f04f2535c80edc.ctex"]
 
 [params]
 

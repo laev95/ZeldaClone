@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bthhk2j5udoqt"
-path="res://.godot/imported/tundraDesert_.png-a71659c9824a7245529fc830e996699f.ctex"
+path="res://.godot/imported/tundraDesert_.png-dabec517132855fa48484307552db623.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/fantasy_/tundraDesert_.png"
-dest_files=["res://.godot/imported/tundraDesert_.png-a71659c9824a7245529fc830e996699f.ctex"]
+source_file="res://assets/fantasy_/tundraDesert_.png"
+dest_files=["res://.godot/imported/tundraDesert_.png-dabec517132855fa48484307552db623.ctex"]
 
 [params]
 

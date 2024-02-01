@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3gr1bnr0hqhm"
-path="res://.godot/imported/swamp_ [fencesAndWalls].png-942a8e0357d23f0145e109e8528b4899.ctex"
+path="res://.godot/imported/swamp_ [fencesAndWalls].png-2aba142b9a4159b290f95ca846b7931f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/swamp_/swamp_ [fencesAndWalls].png"
-dest_files=["res://.godot/imported/swamp_ [fencesAndWalls].png-942a8e0357d23f0145e109e8528b4899.ctex"]
+source_file="res://assets/swamp_/swamp_ [fencesAndWalls].png"
+dest_files=["res://.godot/imported/swamp_ [fencesAndWalls].png-2aba142b9a4159b290f95ca846b7931f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cisjny8gn21sn"
-path="res://.godot/imported/swamp_ [bridgeVertical].png-349ee4a17551c0aaa2cb73039725a36b.ctex"
+path="res://.godot/imported/swamp_ [bridgeVertical].png-ac0d8879de29deda07484eeb9ec0a305.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/swamp_/swamp_ [bridgeVertical].png"
-dest_files=["res://.godot/imported/swamp_ [bridgeVertical].png-349ee4a17551c0aaa2cb73039725a36b.ctex"]
+source_file="res://assets/swamp_/swamp_ [bridgeVertical].png"
+dest_files=["res://.godot/imported/swamp_ [bridgeVertical].png-ac0d8879de29deda07484eeb9ec0a305.ctex"]
 
 [params]
 
